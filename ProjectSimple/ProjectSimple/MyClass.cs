@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectSimple
 {
-    class MyClass
+    public class MyClass
     {
         public static int Soma(int num, int num2)
         {
